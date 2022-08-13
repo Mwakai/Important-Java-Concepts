@@ -1,5 +1,3 @@
-
-
 package algo.search
 
 abstract class AbstractSearchStrategy<T> {
